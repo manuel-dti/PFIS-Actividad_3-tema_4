@@ -1,0 +1,45 @@
+Requisitos Fuente de Agua
+	1 - Ámbito
+		· Software
+		· Hardaware
+		· Sistema
+	   - Característica
+		· Información
+		· Funcional
+		· No funcional
+	2 - Diagrama de Casos de Uso
+		· Definir Actores
+		· Definir Casos de Uso
+	3 - Prototipado
+	4 - Subirlo todo a la nube
+
+Requisitos Máquina de Golosinas
+	1 - Ámbito
+		· Software
+		· Hardaware
+		· Sistema
+	   - Característica
+		· Información
+		· Funcional
+		· No funcional
+	2 - Diagrama de Casos de Uso
+		· Definir Actores
+		· Definir Casos de Uso
+	3 - Prototipado
+	4 - Subirlo todo a la nube
+Requisitos Máquina de Bebidas Calientes
+	1 - Ámbito
+		· Software
+		· Hardaware
+		· Sistema
+	   - Característica
+		· Información
+		· Funcional
+		· No funcional
+	2 - Diagrama de Casos de Uso
+		· Definir Actores
+		· Definir Casos de Uso
+	3 - Prototipado
+	4 - Subirlo todo a la nube
+	
+Crear un repositorio

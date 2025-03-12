@@ -18,3 +18,5 @@
 5 . Se requiere llevar un conteo del tiempo que se tarda en realizar cada tarea.
 
 Sobre esta actividad se trabajará la semana que viene para establecer una línea base de la documentación.
+
+¡Acordaos de llevar los incurridos de las horas!
